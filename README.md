@@ -2,7 +2,7 @@
 
 Full-Stack Software Engineer focused on **secure backend architecture**.
 
-I focus on building production-ready backend systems where security is part of the architecture, not an afterthought. From architecting scalable Node.js APIs to implementing robust RBAC and OAuth2 systems, I enjoy the challenge of making software reliable and safe.
+I focus on building production-ready Node.js backend systems where security is part of the architecture, not an afterthought. From architecting scalable Node.js APIs to implementing robust RBAC and OAuth2 systems, I enjoy the challenge of making software reliable and safe.
 
 ---
 
